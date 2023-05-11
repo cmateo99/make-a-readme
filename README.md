@@ -1,25 +1,25 @@
-# asd
+# Readme Creator
 
-                ## Description
-                asd
+## Description
+This creates a readme file for you based on a prompt
 
-                ## Table of Contents
-                - [Installation](#installation)
-                - [Usage](#usage)
-                - [Contributions](#contributions)
-                - [Tests](#tests)
-                - [License](#license)
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributions](#contributions)
+- [Tests](#tests)
+- [License](#license)
 
-                ## Installation
-                as
+## Installation
+Install repository and run the code node index.js in bash
 
-                ## Usage
-                das
+## Usage
+Run node index.js and answer all the questions
 
-                ## Contributions
-                dasd
+## Contributions
+no
 
-                ## Tests
-                asd
-                ## License
-                asd
+## Tests
+none
+## License
+MIT
