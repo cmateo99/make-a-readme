@@ -1,25 +1,25 @@
-#Readme Creator
+# asd
 
-                ##Description
-                It creates a readme file for you based on a few prompts
+                ## Description
+                asd
 
-                ##Table of Contents
-                - [Installation](#Installation)
-                - [Usage](#Usage)
-                - [Contributions](#Contributions)
-                - [Tests](#Tests)
-                - [License](#License)
+                ## Table of Contents
+                - [Installation](#installation)
+                - [Usage](#usage)
+                - [Contributions](#contributions)
+                - [Tests](#tests)
+                - [License](#license)
 
-                ##Installation
-                To install it, simply download the repository and type node index.js in bash
+                ## Installation
+                as
 
-                ##Usage
-                You can use this project to make readme files for your different projects
+                ## Usage
+                das
 
-                ##Contributions
-                not at the moment
+                ## Contributions
+                dasd
 
-                ##Tests
-                none
-                ##License
-                MIT
+                ## Tests
+                asd
+                ## License
+                asd
