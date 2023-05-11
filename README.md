@@ -1,7 +1,6 @@
-# Readme Creator
-
+# Readme Generator
 ## Description
-This creates a readme file for you based on a prompt
+Creates a readme file from a prompt using inquirer
 
 ## Table of Contents
 - [Installation](#installation)
@@ -11,15 +10,8 @@ This creates a readme file for you based on a prompt
 - [License](#license)
 
 ## Installation
-Install repository and run the code node index.js in bash
-
+- Download the repository from github
 ## Usage
-Run node index.js and answer all the questions
-
-## Contributions
-no
-
-## Tests
-none
+ - run node index.js in gitbash while in the directory
 ## License
-MIT
+MIT License
