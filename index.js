@@ -53,31 +53,31 @@ function init() {
         .prompt(questions)
         .then((answers)=>{
             const rdMe = 
-                `# ${answers.Title}
+`# ${answers.Title}
 
-                ## Description
-                ${answers.Description}
+## Description
+${answers.Description}
 
-                ## Table of Contents
-                - [Installation](#installation)
-                - [Usage](#usage)
-                - [Contributions](#contributions)
-                - [Tests](#tests)
-                - [License](#license)
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributions](#contributions)
+- [Tests](#tests)
+- [License](#license)
 
-                ## Installation
-                ${answers.Installation}
+## Installation
+${answers.Installation}
 
-                ## Usage
-                ${answers.Usage}
+## Usage
+${answers.Usage}
 
-                ## Contributions
-                ${answers.Contributions}
+## Contributions
+${answers.Contributions}
 
-                ## Tests
-                ${answers.Tests}
-                ## License
-                ${answers.License}`
+## Tests
+${answers.Tests}
+## License
+${answers.License}`
             writeToFile('README.MD', rdMe);
         })
     .catch((err)=>console.error(err));
